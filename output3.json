@@ -1,0 +1,77 @@
+{
+  "feasible": true,
+  "placements": [
+    {
+      "item": "fridge",
+      "center": [
+        56698.3095,
+        36483.107
+      ],
+      "rotation": 0
+    },
+    {
+      "item": "shelf-1",
+      "center": [
+        56898.3095,
+        35083.107
+      ],
+      "rotation": 90
+    },
+    {
+      "item": "shelf-2",
+      "center": [
+        56098.3095,
+        30083.107
+      ],
+      "rotation": 90
+    },
+    {
+      "item": "shelf-3",
+      "center": [
+        56098.3095,
+        31283.107
+      ],
+      "rotation": 90
+    },
+    {
+      "item": "shelf-4",
+      "center": [
+        56098.3095,
+        32483.107
+      ],
+      "rotation": 90
+    },
+    {
+      "item": "shelf-5",
+      "center": [
+        56098.3095,
+        33683.107
+      ],
+      "rotation": 90
+    },
+    {
+      "item": "overShelf-1",
+      "center": [
+        56098.3095,
+        34683.107
+      ],
+      "rotation": 90
+    },
+    {
+      "item": "overShelf-2",
+      "center": [
+        56098.3095,
+        35483.107
+      ],
+      "rotation": 90
+    },
+    {
+      "item": "overShelf-3",
+      "center": [
+        56698.3095,
+        29683.107
+      ],
+      "rotation": 0
+    }
+  ]
+}

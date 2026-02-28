@@ -1,0 +1,69 @@
+{
+  "feasible": true,
+  "placements": [
+    {
+      "item": "fridge",
+      "center": [
+        5623.4423,
+        31141.7939
+      ],
+      "rotation": 90
+    },
+    {
+      "item": "iceMaker",
+      "center": [
+        5623.4423,
+        29941.7939
+      ],
+      "rotation": 0
+    },
+    {
+      "item": "shelf-1",
+      "center": [
+        6823.4423,
+        29341.7939
+      ],
+      "rotation": 90
+    },
+    {
+      "item": "shelf-2",
+      "center": [
+        6823.4423,
+        30541.7939
+      ],
+      "rotation": 90
+    },
+    {
+      "item": "shelf-3",
+      "center": [
+        6223.4423,
+        29341.7939
+      ],
+      "rotation": 90
+    },
+    {
+      "item": "overShelf-1",
+      "center": [
+        6623.4423,
+        32741.7939
+      ],
+      "rotation": 0
+    },
+    {
+      "item": "overShelf-2",
+      "center": [
+        6623.4423,
+        31341.7939
+      ],
+      "rotation": 0
+    },
+    {
+      "item": "overShelf-3",
+      "center": [
+        6623.4423,
+        31941.7939
+      ],
+      "rotation": 0
+    }
+  ]
+}
